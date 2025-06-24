@@ -1,0 +1,7 @@
+crewai
+openai
+langchain
+langchain-community
+chromadb
+streamlit
+python-docx
