@@ -2,3 +2,5 @@ crewai==0.21.5
 openai
 streamlit
 python-docx
+langchain
+langchain-community
