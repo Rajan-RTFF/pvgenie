@@ -1,4 +1,4 @@
-crewai
+crewai==0.21.5
 openai
 langchain
 langchain-community
